@@ -1,5 +1,3 @@
-# app.py
-
 import streamlit as st
 from PIL import Image
 from milvus_engine import FeatureExtractor, setup_milvus, insert_images, search_image
